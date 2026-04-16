@@ -1,4 +1,4 @@
-import { ReactNode } from 'react';
+import { type ReactNode } from 'react';
 import { Topbar } from '../../modules/navigation/components/Topbar';
 import { Sidebar } from '../../modules/navigation/components/Sidebar';
 import { NotificationPopup } from '../../modules/navigation/components/NotificationPopup';
